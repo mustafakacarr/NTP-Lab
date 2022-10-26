@@ -46,14 +46,14 @@ namespace LoginFormHw
                     MessageBox.Show("Doğrulama kodu " + email + " adresine gönderildi.", "Başarılı!");
                     panel1.Enabled = false;
                     panel2.Enabled = true;
-               
+
 
                 }
                 else
                 {
                     MessageBox.Show("Doğrulama kodu gönderilirken bir sorun oluştu.", "Hata!");
                 }
-              
+
             }
             else
             {
@@ -67,17 +67,17 @@ namespace LoginFormHw
 
             String mesaj = "Merhaba, şifrenizi yenilemek için kullanmanız gereken doğrulama kodu; " + "<br><strong>" + dogrulama + "</strong><br><br>Bu kodu kullanarak şifre güncelleme aşamasına geçebilirsiniz. ";
             SmtpClient client = new SmtpClient();
-            client.Port = 587; 
+            client.Port = 587;
             client.Host = "mail.mustafakacar.com.tr"; // Hostunuzun smtp için mail domaini.
             client.EnableSsl = true; // Güvenlik ayarları, host'a ve gönderilen server'a göre değişebilir.
             client.Timeout = 10000; // Milisaniye cinsten timeout
             client.DeliveryMethod = SmtpDeliveryMethod.Network; // Mailin yollanma methodu
             client.UseDefaultCredentials = false;
-            client.Credentials = new System.Net.NetworkCredential("my@mustafakacar.com.tr", "3497376MK*"); // Burada hangi hesabı kullanarak mail yollayacaksanız onun ayarlarını yapmanız gerekiyor
+            client.Credentials = new System.Net.NetworkCredential("my@mustafakacar.com.tr", "*******"); // Burada hangi hesabı kullanarak mail yollayacaksanız onun ayarlarını yapmanız gerekiyor
             MailMessage mm = new MailMessage("my@mustafakacar.com.tr", "mustafakacar48@outlook.com.tr", "Şifre Yenileme",mesaj); // Hangi mail adresinden nereye, konu ve içerik mail ayarlarını yapabilirsiniz
             mm.IsBodyHtml = true; // True: Html olarak Gönderme, False: Text olarak Gönderme
             mm.BodyEncoding = UTF8Encoding.UTF8; // UTF8 encoding ayarı
-            mm.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure; // Hata olduğunda uyarı ver 
+            mm.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure; // Hata olduğunda uyarı ver
             client.Send(mm); // Mail yolla
             return true;
         }
