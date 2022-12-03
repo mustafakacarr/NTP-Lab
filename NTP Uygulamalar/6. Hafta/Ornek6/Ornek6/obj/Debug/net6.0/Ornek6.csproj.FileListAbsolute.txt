@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\bin\Debug\net6.0\Ornek6.exe
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\bin\Debug\net6.0\Ornek6.deps.json
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\bin\Debug\net6.0\Ornek6.runtimeconfig.json
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\bin\Debug\net6.0\Ornek6.dll
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\bin\Debug\net6.0\Ornek6.pdb
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\Ornek6.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\Ornek6.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\Ornek6.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\Ornek6.AssemblyInfo.cs
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\Ornek6.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\Ornek6.dll
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\refint\Ornek6.dll
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\Ornek6.pdb
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\Ornek6.genruntimeconfig.cache
+\\Mac\Home\Desktop\NTP Uygulamalar\6. Hafta\Ornek6\Ornek6\obj\Debug\net6.0\ref\Ornek6.dll
