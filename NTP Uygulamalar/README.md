@@ -1,2 +1,2 @@
 
-# NTP Dersi Pdf Sonundaki Örnekler
+# NTP Dersi Pdf Sonu Örnekleri
