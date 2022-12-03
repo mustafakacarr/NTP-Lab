@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\bin\Debug\net6.0\Week3-Homework.exe
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\bin\Debug\net6.0\Week3-Homework.deps.json
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\bin\Debug\net6.0\Week3-Homework.runtimeconfig.json
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\bin\Debug\net6.0\Week3-Homework.dll
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\bin\Debug\net6.0\Week3-Homework.pdb
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\Week3-Homework.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\Week3-Homework.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\Week3-Homework.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\Week3-Homework.AssemblyInfo.cs
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\Week3-Homework.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\Week3-Homework.dll
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\refint\Week3-Homework.dll
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\Week3-Homework.pdb
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\Week3-Homework.genruntimeconfig.cache
+\\Mac\Home\Desktop\NTPLABODEVLER\Week3-Homework\Week3-Homework\obj\Debug\net6.0\ref\Week3-Homework.dll
